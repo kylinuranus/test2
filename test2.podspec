@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'test2'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of test2.'
+  s.summary          = '组件化测试组件'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
